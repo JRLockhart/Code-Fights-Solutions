@@ -1,1 +1,1 @@
-These are my personal solutions to the problems that are presented on codefights.com.
+Codfights.com provides daily challenges to solve using a programing language of your choosing. All the problem are listed in each file with my solution at the bottom.
